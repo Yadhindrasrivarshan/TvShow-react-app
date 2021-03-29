@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TvShow-react-app/static/css/main.edf793b5.chunk.css",
+    "main.js": "/TvShow-react-app/static/js/main.ec2f87f1.chunk.js",
+    "main.js.map": "/TvShow-react-app/static/js/main.ec2f87f1.chunk.js.map",
+    "runtime-main.js": "/TvShow-react-app/static/js/runtime-main.791aaacc.js",
+    "runtime-main.js.map": "/TvShow-react-app/static/js/runtime-main.791aaacc.js.map",
+    "static/js/2.0b64e281.chunk.js": "/TvShow-react-app/static/js/2.0b64e281.chunk.js",
+    "static/js/2.0b64e281.chunk.js.map": "/TvShow-react-app/static/js/2.0b64e281.chunk.js.map",
+    "index.html": "/TvShow-react-app/index.html",
+    "static/css/main.edf793b5.chunk.css.map": "/TvShow-react-app/static/css/main.edf793b5.chunk.css.map",
+    "static/js/2.0b64e281.chunk.js.LICENSE.txt": "/TvShow-react-app/static/js/2.0b64e281.chunk.js.LICENSE.txt",
+    "static/media/spinner.dbb22bcf.gif": "/TvShow-react-app/static/media/spinner.dbb22bcf.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.791aaacc.js",
+    "static/js/2.0b64e281.chunk.js",
+    "static/css/main.edf793b5.chunk.css",
+    "static/js/main.ec2f87f1.chunk.js"
+  ]
+}
